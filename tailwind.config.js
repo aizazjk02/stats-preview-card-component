@@ -14,8 +14,8 @@ export default {
         "white": "#ffffff",
       },
       backgroundImage: {
-        "hero-pattern": "url('./src/assets/image-header-mobile.jpg')",
-        "hero-pattern-desktop": "url('./src/assets/image-header-desktop.jpg')",
+        "hero-pattern": "url('./public/assets/image-header-mobile.jpg')",
+        "hero-pattern-desktop": "url('./public/assets/image-header-desktop.jpg')",
       },
       fontFamily: {
         inter: ["Inter", "sans-serif"], 
